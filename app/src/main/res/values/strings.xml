@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Booyah Arena</string>
+    <string name="sign_in_title">BOOYAH ARENA</string>
+    <string name="sign_in_subtitle">Competitive Free Fire Esports Tournaments</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="nav_tournaments">Matches</string>
+    <string name="nav_my_matches">My Matches</string>
+    <string name="nav_leaderboard">Leaderboard</string>
+    <string name="nav_profile">Profile</string>
+    <string name="admin_panel_title">Admin Command</string>
+    <string name="help_click_for_support">সাহায্যের জন্য ক্লিক করুন</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="notif_channel_wallet_id">wallet_updates</string>
+    <string name="notif_channel_wallet_name">Wallet &amp; Payment Alerts</string>
+    <string name="notif_channel_wallet_desc">Instant alerts when Admin approves or updates your deposit or withdrawal</string>
+    <string name="notif_channel_room_id">room_credentials</string>
+    <string name="notif_channel_room_name">Room ID &amp; Password Alerts</string>
+    <string name="notif_channel_room_desc">Instant alerts when Admin publishes a new Room ID and Password for your tournament</string>
+    <string name="notif_channel_reminder_id">match_reminders</string>
+    <string name="notif_channel_reminder_name">15-Minute Match Reminders</string>
+    <string name="notif_channel_reminder_desc">Local alerts 15 minutes before your registered tournaments kick off</string>
+    <string name="room_not_purchased_title">আপনি রুমটি কেনেননি</string>
+    <string name="room_not_purchased_message">এই টুর্নামেন্টের Room ID ও Password শুধুমাত্র যারা রুম কিনেছে (জয়েন করেছে) তারাই দেখতে পারবে।</string>
+    <string name="rules_regulations_title">Rules &amp; Regulations</string>
+    <string name="rules_regulations_before_join">Review match requirements carefully before joining</string>
+    <string name="rules_regulations_admin_hint">Tap quick requirements or write custom rules (one per line). Displayed to players before joining.</string>
+    <string name="rules_regulations_fair_play_notice">Breaking any rule leads to immediate disqualification without refund.</string>
+</resources>

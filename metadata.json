@@ -1,0 +1,6 @@
+{
+  "name": "Booyah Arena",
+  "description": "Online Free Fire esports tournament platform with live cloud-synced matches, custom categories, Room ID and Password distribution, leaderboard, and full Admin customization panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
